@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
+
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Odhiambo-Michael-Allan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
